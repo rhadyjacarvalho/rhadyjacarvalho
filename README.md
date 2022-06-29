@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rhadyjacarvalho Rhadyja Carvalho
-- 👀 I’m interested in aprender
+- 👀 I’m interested in aprender pensamento computacional 
 - 🌱 I’m currently learning a mexer no github
 - 💞️ I’m looking to collaborate on alura
 - 📫 How to reach me instagram, @rhadyjacarvalho_
